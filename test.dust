@@ -1,0 +1,131 @@
+<div class="header">
+                
+<div class="header_top">
+    <div class="nabh">
+        <img src="/images/nabh_logo_sm.png">
+    </div>
+    <div class="emergency_nos">
+   
+              <div class="el">
+            <strong>Toll Free</strong>
+            <br>
+            18002678612 
+        </div>
+        <div class="bl">
+            <strong>Boardline</strong>
+            <br>
+            
+
+           022-68658000  /<br class="br_adjust">    
+          68651000
+        </div>
+    </div>
+    <div class="clear" id="sticky-anchor">
+    </div>
+</div>
+<div class="fixing_head">
+    <div class="navigation">
+        <div class="menu-btn menu_open">
+            <img src="/images/menu.png" alt="" title="Menu" style="display: block;">
+        </div>
+        <div class="nav pushy pushy-right">
+            <div class="menu-btn menu_close">
+                X
+            </div>
+            <div class="language" id="google_translate_element">
+            <div class="skiptranslate goog-te-gadget" dir="ltr" style=""><div id=":0.targetLanguage" class="goog-te-gadget-simple" style="white-space: nowrap;"><img src="https://www.google.com/images/cleardot.gif" class="goog-te-gadget-icon" alt="" style="background-image: url(&quot;https://translate.googleapis.com/translate_static/img/te_ctrl3.gif&quot;); background-position: -65px 0px;"><span style="vertical-align: middle;"><a aria-haspopup="true" class="goog-te-menu-value" href="javascript:void(0)"><span>Select Language</span><img src="https://www.google.com/images/cleardot.gif" alt="" width="1" height="1"><span style="border-left: 1px solid rgb(187, 187, 187);">​</span><img src="https://www.google.com/images/cleardot.gif" alt="" width="1" height="1"><span aria-hidden="true" style="color: rgb(118, 118, 118);">▼</span></a></span></div></div></div>
+            <div class="search_box">
+                
+                <input name="ctl00$header$txtSearch" type="text" id="ctl00_header_txtSearch" placeholder="Search" class="search_type" autocomplete="off">
+                <input type="submit" name="ctl00$header$btnSearch" value="" id="ctl00_header_btnSearch" class="search_btn">
+            </div>
+            <ul class="menu">
+                <li id="ctl00_header_idhome"><a href="/Home"> <i class="fa fa-home" style="font-size:16px;"></i><span>Home</span></a></li>
+                <li id="ctl00_header_idAboutUs"><a href="#">About Us</a>
+                    <ul style="display: none;">  
+                        <li><a href="/Introduction">Introduction</a></li>
+                        <li><a href="/Founder">The Founder</a></li>
+                        <li><a href="/Board-of-Trustees">Board of Trustees</a></li>
+                        <li><a href="/Management">Management</a></li>
+                        <li><a href="/Mission-Motto">Mission &amp; Motto</a></li>
+                        <li><a href="/Awards-Accreditations">Awards &amp; Accreditations</a></li>
+                        <li><a href="/Media-Press-Releases">Media/ Press Release</a></li>
+                        <li><a href="/Statutory-Compilance">Statutory Compliance</a></li>
+                    </ul>
+                </li>
+                <li id="ctl00_header_idSevices"><a href="#">Services</a>
+                    <ul class="col_2" style="display: none;">                   
+                        <li><a href="/Ambulance">Ambulance</a></li>
+                        <li><a href="/Blood-Bank">Blood Bank</a></li>
+                        <li><a href="/Centres-of-Excellence">Centres of Excellence</a></li>
+                        <li><a href="/Critical-Care">Critical Care</a></li>
+                        <li><a href="/Day-Care">Day Care</a></li>
+                        <li><a href="/Diagnostics">Diagnostics</a></li>
+                        <li><a href="/Dialysis-Centre">Dialysis Centre</a></li>
+                        <li><a href="/Emergency-Trauma">Emergency/ Trauma</a></li>
+                        <li><a href="/Health-Checkup">Health Check Up</a></li>
+                        <li><a href="/Interventional-Neuroradiology">Interventional Neuroradiology</a></li>
+                        <li><a href="/Interventional_Radiology">Interventional Radiology</a></li>
+                        <li><a href="/Out-Patient">Out Patient</a></li>
+                        <li><a href="/Pharmacy">Pharmacy/ Chemist</a></li>
+                        <li><a href="/Physiotherapy">Physiotherapy</a></li>                     
+                        <li><a href="/Social-Initiative?tab_list=0">Social Initiatives</a></li>
+                        <li><a href="/Visa-Investigation">Visa Investigation</a></li>
+                        <li><a href="/Hydrotherapy-Centre">Hydrotherapy Centre</a></li>
+                    </ul>
+                </li>
+                <li id="ctl00_header_idPatients"><a href="#">Patients</a>
+                    <ul class="col_2" style="display: none;">
+                        <li><a href="/Accommodation">Accommodation</a></li>
+                        <li><a href="/Empanelled-Corporates">Empanelled Corporates</a></li>
+                        <li><a href="/Empanelled-Insurance-Co-TPAs">Empanelled Insurance Co. &amp; TPA's</a></li>
+                        <li><a href="/Feedback">Feedback</a></li>
+                        <li><a href="/Doctor">Find a Doctor</a></li>
+                        <li><a href="/Floor-Directory">Floor Directory</a></li>
+                        <li><a href="/Inpatients">Inpatients</a></li>
+                        <li><a href="/International-Patients">International Patients</a></li>
+                        <li><a href="/Patients-Education-Brochure">Patients Education Brochure</a></li>
+                        <li><a href="/Patients-Rights-Responsibilities">Patients Rights &amp; Responsibilities</a></li>
+                        <li><a href="/Tariff">Tariff</a></li>
+                    </ul>
+                </li>
+                <li id="ctl00_header_idVisitors"><a href="#">Visitors</a>
+                    <ul style="display: none;">
+                        <li><a href="/Visiting-Hours">Visiting Hours</a></li>
+                        <li><a href="/Convenience-Facilities">Convenience &amp; Facilities</a></li>
+                        <li><a href="/Dos-Donts">Do's &amp; Don'ts</a></li>
+                        <!-- <li><a href="/Visitors-Policy">Visitors Policy</a></li> ;-->
+                        <li><a href="javascript:void(0)">Visitors Policy</a></li> 
+                    </ul>
+                </li>
+                <li id="ctl00_header_idProfessionals"><a href="#">Academics</a>
+                    <ul style="display: none;">
+                                                                    
+                         <li><a href="/Careers">Careers</a></li>
+                        <li><a href="/CME">CME</a></li>
+                        <li><a href="/DNB">DNB</a></li>
+                        <li><a href="/LHMT">LHMT</a></li>
+                         <li><a href="/muhs_Fellowship">MUHS Fellowship</a></li>  
+                        <li><a href="/Nurses">Nurses</a></li>
+                        <li><a href="/Research">Research</a></li>          
+                    </ul>
+                </li>
+                <li id="ctl00_header_idContactUs"><a href="/Contact-Us">Contact Us</a></li>
+            </ul>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="logo_box">
+        <a href="/Home">
+            <img src="/images/logo.gif" class="logo">
+        </a>
+        <div class="clear">
+        </div>
+    </div>
+</div>
+<div class="clear">
+</div>
+
+
+            </div>
