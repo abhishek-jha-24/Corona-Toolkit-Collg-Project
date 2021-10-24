@@ -39,23 +39,7 @@ app.get('/', function(req, res){
 });
 app.get('/coronapositive', function(req, res){
 	
-	pool.query('SELECT * FROM testresults WHERE status = $1', ["positive"], (err, result) => {
-		pool.query('SELECT * FROM testresults WHERE age < $1', [30], (err, resultx) => {
-			pool.query('SELECT * FROM testresults WHERE age > $1 and age < $2', [30, 50], (err, resulty) => {
-				pool.query('SELECT * FROM testresults WHERE age > $1', [50], (err, resultz) => {
-					if(err){
-						
-						console.log(err)
-				
-						
-					}
-					res.render('admit', {testresults: result.rows, young: parseInt(resultx.rows.length), mid: parseInt(resulty.rows.length), old: parseInt(resultz.rows.length)});
-				});
-
-			});
-		});
-
-		
+	// do the work
 		
 	
 		
